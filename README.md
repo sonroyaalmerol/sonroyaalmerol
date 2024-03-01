@@ -8,7 +8,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sonroyaalmerol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img width="100%" src="https://media.tenor.com/qOIt9-KMkq4AAAAM/p3-persona3.gif" />
-</p>
